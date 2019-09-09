@@ -1,0 +1,23 @@
+{
+  "name": "backbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "server": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "faker": "^4.1.0",
+    "mongoose": "^5.6.13",
+    "nodemon": "^1.19.2",
+    "os": "^0.1.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
